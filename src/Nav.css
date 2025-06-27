@@ -1,0 +1,28 @@
+.Nav{
+    position: fixed;
+    top: 65px;
+    left: 0;
+    width: 100%;
+    background-color: #2cd546;
+    color: rgb(25, 28, 125);
+    text-align: center;
+    z-index: 1000;
+    padding-top: 20px;
+    justify-content: left;
+    text-align: left;
+}
+.Nav i{
+    margin: 10px;
+    border: black solid;
+    border-radius: 10px;
+    padding: 5px;
+}
+.Nav i:hover{
+    background-color: rgb(86, 83, 83);
+    color: #f4eded;
+}
+.Nav button{
+    margin: 25px;
+    padding: 5px;
+    border-radius: 10px;
+}
